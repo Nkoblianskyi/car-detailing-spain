@@ -26,7 +26,7 @@ export function Navigation() {
             <div className="w-8 h-8 bg-gradient-to-br from-amber-400 to-amber-600 rounded-lg flex items-center justify-center">
               <Image src="/favicon.ico" alt="Logo" width={24} height={24} />
             </div>
-            <span className="font-serif font-bold text-xl text-zinc-100">Elite Auto Detailing</span>
+            <span className="font-serif font-bold text-xl text-zinc-100">Elite Auto Detailing Spain</span>
           </Link>
 
           {/* Desktop Navigation */}

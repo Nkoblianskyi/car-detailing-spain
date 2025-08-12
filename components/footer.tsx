@@ -14,7 +14,7 @@ export function Footer() {
               <div className="w-8 h-8 bg-gradient-to-br from-amber-400 to-amber-600 rounded-lg flex items-center justify-center">
                 <Image src="/favicon.ico" alt="Logo" width={24} height={24} />
               </div>
-              <span className="font-serif font-bold text-xl text-zinc-100">Elite Auto Detailing</span>
+              <span className="font-serif font-bold text-xl text-zinc-100">Elite Auto Detailing Spain</span>
             </div>
             <p className="text-zinc-400 text-sm">
               Premium car detailing services in Spain. We bring your vehicle back to showroom condition with
@@ -78,7 +78,7 @@ export function Footer() {
 
         <div className="border-t border-zinc-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-zinc-400 text-sm">© 2025 Elite Auto Detailing Spain. All rights reserved.</p>
+            <p className="text-zinc-400 text-sm">© 2025 eliteautodetailingspain.com - All rights reserved.</p>
             <div className="flex space-x-6">
               <Link href="/privacy" className="text-zinc-400 hover:text-amber-400 transition-colors text-sm">
                 Privacy Policy
