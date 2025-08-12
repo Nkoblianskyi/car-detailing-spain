@@ -311,7 +311,7 @@ export const companyInfo = {
   name: "Elite Auto Detailing Spain",
   address: "Calle de Alcalá 123, 28009 Madrid, Spain",
   phone: "+34915486952",
-  email: "info@eliteautodetailing.com",
+  email: "info@eliteautodetailingspain.com",
   hours: {
     weekdays: "9:00 AM - 7:00 PM",
     saturday: "9:00 AM - 6:00 PM",

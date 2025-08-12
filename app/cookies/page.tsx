@@ -225,7 +225,7 @@ export default function CookiesPage() {
                             <strong>Elite Auto Detailing Spain</strong>
                           </p>
                           <p>Calle de Alcalá 123, 28009 Madrid, Spain</p>
-                          <p>Email: privacy@eliteautodetailing.com</p>
+                          <p>Email: privacy@eliteautodetailingspain.com</p>
                           <p>Phone: +34915486952</p>
                         </div>
                       </div>
